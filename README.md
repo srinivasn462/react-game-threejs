@@ -1,6 +1,8 @@
 # This is sample Dino car game using Three.js 3D Library
 
-# This is to practice react app to check the performance with ThreeJs gaming 3d library.
+# This is to practice react app to check the performance with ThreeJs gaming 3d library and not for production use.
+
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
